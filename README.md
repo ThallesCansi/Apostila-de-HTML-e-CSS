@@ -9,3 +9,9 @@ Neste repositório, colocaremos a resolução dos exercícios propostos na apost
 ### Parte I - HTML
 
 [Capítulo 01 - Introdução](<Parte I - HTML/Capítulo 01 - Introdução>)
+
+[Capítulo 02 - Documentos HTML e CSS](<Parte I - HTML/Capítulo 02 - Documentos HTML e CSS>)
+
+[Capítulo 03 - Textos](<Parte I - HTML/Capítulo 03 - Textos>)
+
+[Capítulo 04 - Listas e Tabelas](<Parte I - HTML/Capítulo 04 - Listas e Tabelas>)
