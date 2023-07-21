@@ -1,0 +1,9 @@
+{
+    "MD033": {
+        "allowed_elements": ["table", "thead", "tr", "th", "tbody", "td"]
+    },
+
+    "MD013": {
+        "headers": false
+    }
+}

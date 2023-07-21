@@ -2,7 +2,10 @@
 
 ## Página Estática
 
-Uma página de hipertexto estática é aquela em que o **conteúdo é fixo** e **pré-definido**, permanecendo inalterado, independentemente da interação do usuário. Elas são geralmente criadas manualmente e exibem o mesmo conteúdo para todos os usuários.
+Uma página de hipertexto estática é aquela em que o **conteúdo é fixo** e
+**pré-definido**, permanecendo inalterado, independentemente da interação do
+usuário. Elas são geralmente criadas manualmente e exibem o mesmo conteúdo para
+todos os usuários.
 
 ### Vantagens
 
@@ -17,7 +20,11 @@ Uma página de hipertexto estática é aquela em que o **conteúdo é fixo** e *
 
 ## Página Dinâmica
 
-Já uma página de hipertexto dinâmica é aquela em que o **conteúdo é gerado** e **personalizado** de acordo com a **interação do usuário** ou outras variáveis. Elas são geralmente criadas com o uso de linguagens de programação, como JavaScript, PHP ou Python, e podem se adaptar em **tempo real** às ações do usuário.
+Já uma página de hipertexto dinâmica é aquela em que o **conteúdo é gerado** e
+**personalizado** de acordo com a **interação do usuário** ou outras variáveis.
+Elas são geralmente criadas com o uso de linguagens de programação, como
+JavaScript, PHP ou Python, e podem se adaptar em **tempo real** às ações do
+usuário.
 
 ### Vantagens
 
@@ -31,4 +38,9 @@ Já uma página de hipertexto dinâmica é aquela em que o **conteúdo é gerado
 - Têm um processo de desenvolvimento mais complexo
 - Podem apresentar desafios de segurança.
 
-Em resumo, as páginas de hipertexto estáticas são simples, rápidas e compatíveis, mas têm limitações em termos de personalização e interatividade. Já as páginas dinâmicas oferecem personalização, interatividade e exibição de conteúdo relevante, mas podem exigir mais recursos e ser mais complexas de desenvolver. A escolha entre os dois tipos depende das necessidades específicas de cada projeto e das funcionalidades desejadas.
+Em resumo, as páginas de hipertexto estáticas são simples, rápidas e
+compatíveis, mas têm limitações em termos de personalização e interatividade. Já
+as páginas dinâmicas oferecem personalização, interatividade e exibição de
+conteúdo relevante, mas podem exigir mais recursos e ser mais complexas de
+desenvolver. A escolha entre os dois tipos depende das necessidades específicas
+de cada projeto e das funcionalidades desejadas.

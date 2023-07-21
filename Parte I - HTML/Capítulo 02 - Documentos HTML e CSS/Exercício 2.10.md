@@ -10,4 +10,10 @@ h1 {
 
 ---
 
-O trecho de código apresentado é **CSS** (Cascading Style Sheets). O código define um conjunto de regras de estilo para o elemento `<h1>` (cabeçalho de nível 1) em uma página web. As propriedades CSS, como `color`, `text-align` e `border`, são usadas para estilizar o elemento, definindo sua cor de texto, alinhamento e uma borda sólida preta com espessura de 1 pixel. O código CSS é responsável por controlar a apresentação e o design visual dos elementos HTML na página.
+O trecho de código apresentado é **CSS** (Cascading Style Sheets). O código
+define um conjunto de regras de estilo para o elemento `<h1>` (cabeçalho de
+nível 1) em uma página web. As propriedades CSS, como `color`, `text-align` e
+`border`, são usadas para estilizar o elemento, definindo sua cor de texto,
+alinhamento e uma borda sólida preta com espessura de 1 pixel. O código CSS é
+responsável por controlar a apresentação e o design visual dos elementos HTML na
+página.
