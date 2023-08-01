@@ -1,0 +1,33 @@
+p {
+    font-size: 18px;
+    background-color: green;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+#titulo {
+    color: blue;
+}
+
+.destaque {
+    color: red;
+}
+
+.container p {
+    background-color: yellow;
+}
+
+a.link {
+    color: aqua;
+}
+
+ul.lista {
+    background: #3399ff;
+    list-style: square;
+}
+
+.lista li {
+    background: #cce5ff;
+}

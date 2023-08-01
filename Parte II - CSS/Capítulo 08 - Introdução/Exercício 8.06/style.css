@@ -1,0 +1,23 @@
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+#titulo {
+    color: blue;
+}
+
+.destaque {
+    color: red;
+}
+
+.container p {
+    background-color: yellow;
+}
+
+a.link {
+    color: green;
+}
